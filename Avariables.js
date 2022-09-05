@@ -7,7 +7,7 @@ console.log("Soy Duveimar")
 // formas de declarar variables 
 var nombre ="Duveimar";
 let apellido ="Arevalo";
-const dni ="65464";
+const dni ="cc80773981";
 
 
 console.log(nombre, apellido);
