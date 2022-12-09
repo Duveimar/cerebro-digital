@@ -1,6 +1,8 @@
+print("¿Cómo se llama? ", end="")
+nombre = input().upper()
+print(f"Me alegro de conocerle, {nombre}")
 num=1
-print(
-    "cuantas edades promedio")
+print("cuantas edades promedio")
 cantidad= int(input())
 prom=0
 while num <= cantidad:

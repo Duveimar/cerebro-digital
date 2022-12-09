@@ -13,14 +13,18 @@
 
 #Se debe imprimir en pantalla los descuentos los cuales le se asignaron
 #Total, de descuento
-print("Escriva su nombre completo :",end="")
-nombre=""
-input(f'Nombres : {nombre}')
-nombre_=nombre.upper()
-print(f"Sus Apellidos :{nombre_}",end="")
-apellido=""
-apellido_=apellido .upper()
-input(f'Apellidos{apellido_} {nombre_}')
-nombre_com=apellido_,nombre_
-print (f"{nombre_com}Nombre completo : ")
-#nombre_com=(input())
+print("Bienbenido A la universidad de la vida""     ""Para su inscripsion debera llenar un formulario que le asignara descuentos en la matricula")
+print("Su nombre 'si tiene dos ingreselos uno despues de otro")
+nombre= input()
+print("Ingrese sus apellidos uno despues del otro")
+nombre_= nombre.upper()
+print(f"{nombre_}")
+apellido= input()
+apellido_= apellido.upper()
+print(f"{nombre_}  {apellido_} Numero de identificacion?")
+numero=int(input())
+print("Cual es su edad ?")
+edad = int(input())
+if edad<
+print(f"{nombre_} {apellido_}  Si eres casado , viudo, soltero , unión libre?")
+input()
